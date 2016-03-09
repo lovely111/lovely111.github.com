@@ -1,23 +1,24 @@
 
 a:link {
-    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    color: #6495ed;
 }
-
 a:visited {
-    color: cornflowerblue;
+    font-weight: bold;
+    text-decoration: none;
+    color:#6495ed;
 }
-
-a:hover {
-    color: blueviolet;
-    font-size: 50px;
+a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color: blueviolet;;
 }
-
-a:active {
-    color: red;
+td {
+    font-size: larger;
 }
 head {
     background: aliceblue
 }
 body {
-    background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+    background:  aliceblue  url(http://csszengarden.com/001/blossoms.jpg)   bottom  right;
 }
