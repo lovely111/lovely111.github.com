@@ -1,0 +1,23 @@
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+a:active {
+    color: red;
+}
+head {
+    background: aliceblue
+}
+body {
+    background: aliceblue
+}

@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    font-size: 40px
+}
+
+th {
+    background-color: cornflowerblue;font-size:30px;
+}
+td {
+    height:40px;
+    width:300px;
+}
